@@ -5,6 +5,8 @@ on:
     inputs:
       nameaaa:
         description: 'test build'
+      build:
+        description: 'test build build'        
 #         required: true
 #         default: 'Mona the Octocat'
 
