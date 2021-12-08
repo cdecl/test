@@ -3,10 +3,10 @@ name: CMake
 on: 
   workflow_dispatch:
     inputs:
-      logLevel:
-        description: 'test manual trigger'     
+      name:
+        description: 'test build'
         required: true
-        default: 'warning'
+#         default: 'Mona the Octocat'
 
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
