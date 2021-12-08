@@ -47,7 +47,10 @@ jobs:
       run: ./main
 
     - name: Test1
-      run: cd gomain
+      run: |
+        pwd
+        cd gomain
+        pwd
 
     - name: Test2
       run: pwd
