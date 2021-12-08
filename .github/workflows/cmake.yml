@@ -2,10 +2,10 @@ name: CMake
 
 on: 
   workflow_dispatch:
-    inputs:
-      name:
-        description: 'test build'
-        required: true
+#     inputs:
+#       name:
+#         description: 'test build'
+#         required: true
 #         default: 'Mona the Octocat'
 
 env:
