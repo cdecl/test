@@ -1,1 +1,1 @@
-cdecl test.txt
+cdecl test.txt v2
