@@ -9,6 +9,6 @@ This text is heavily influenced by Mathieu Ropert’s and Daniel Pfeifer’s tal
 
 If you are interested in the history and internal architecture of CMake, have a look at the article CMake in the book The Architecture of Open Source Applications.
 
-cdecl write
+cdecl write 22
 
 eof
