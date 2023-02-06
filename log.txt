@@ -1,7 +1,7 @@
 Getting Started
 For a brief user-level introduction to CMake, watch C++ Weekly, Episode 78, Intro to CMake by Jason Turner. LLVM’s CMake Primer provides a good high-level introduction to the CMake syntax. Go read it now.
 
-cafelomo wirte 00
+cafelomo wirte t1
 
 After that, watch Mathieu Ropert’s CppCon 2017 talk Using Modern CMake Patterns to Enforce a Good Modular Design (slides). It provides a thorough explanation of what modern CMake is and why it is so much better than “old school” CMake. The modular design ideas in this talk are based on the book Large-Scale C++ Software Design by John Lakos. The next video that goes more into the details of modern CMake is Daniel Pfeifer’s C++Now 2017 talk Effective CMake (slides).
 
